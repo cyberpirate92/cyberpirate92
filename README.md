@@ -1,6 +1,14 @@
-### Hello there <img src="https://raw.githubusercontent.com/cyberpirate92/cyberpirate92/master/wave.gif" width="28px">
+## Hello there <img src="https://raw.githubusercontent.com/cyberpirate92/cyberpirate92/master/wave.gif" width="28px">
 
-I am Ravi Theja, a Software Engineer from India currently working at Optmyzr. 
+I am Ravi Theja, a Software Engineer from India currently working at Optmyzr.
+
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Stackoverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 ----
 
