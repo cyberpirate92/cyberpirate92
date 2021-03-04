@@ -13,6 +13,11 @@ I am Ravi Theja, a Software Engineer from India currently working at Optmyzr.
 
 ### Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by cyberpirate92 for Angular slideshow](https://stackoverflow.com/questions/64546516/angular-slideshow/64549205#64549205)
+- [How to publish changes to a single object in a object array](https://stackoverflow.com/questions/60714347/how-to-publish-changes-to-a-single-object-in-a-object-array)
+- [JUnit: How to create a test class with dependency injection via the constructor](https://stackoverflow.com/questions/59262571/junit-how-to-create-a-test-class-with-dependency-injection-via-the-constructor)
+- [How to replace route parameters in active route](https://stackoverflow.com/questions/57474384/how-to-replace-route-parameters-in-active-route)
+- [Angular - How to make new HTTP requests based on previous request's results](https://stackoverflow.com/questions/55767204/angular-how-to-make-new-http-requests-based-on-previous-requests-results)
 <!-- STACKOVERFLOW:END -->
 
 ----
