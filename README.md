@@ -4,6 +4,11 @@ I am Ravi Theja, a Software Engineer from India currently working at Optmyzr.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lesser known Javascript concepts](https://medium.com/@ravi_theja/lesser-known-javascript-concepts-5750c9be8f46?source=rss-775bfefb060------2)
+- [Creating a simple blockchain](https://medium.com/@ravi_theja/creating-a-simple-blockchain-6d003129ab97?source=rss-775bfefb060------2)
+- [Why is it difficult to modify records in a blockchain](https://medium.com/@ravi_theja/why-is-it-difficult-to-modify-records-in-a-blockchain-4891612f0645?source=rss-775bfefb060------2)
+- [Creating a real time graph using SignalR](https://medium.com/@ravi_theja/creating-a-real-time-graph-using-signalr-eb19b3e2f212?source=rss-775bfefb060------2)
+- [Angular content projection](https://medium.com/@ravi_theja/angular-content-projection-979cd96936e4?source=rss-775bfefb060------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stackoverflow Activity
