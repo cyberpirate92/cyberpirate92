@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello there <img src="https://raw.githubusercontent.com/cyberpirate92/cyberpirate92/master/wave.gif" width="28px">
 
-<!--
-**cyberpirate92/cyberpirate92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ravi Theja, a Software Engineer from India currently working at Optmyzr. 
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberpirate92&theme=dark">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpirate92&theme=dark&layout=compact">
+</p>
+
+----
+<p  align="center">
+  <a href="https://linkedin.com/in/theja-bsr"><img src="https://img.shields.io/badge/-ravi_theja-blue?style=flat&logo=Linkedin"></a>
+  <a href="https://stackoverflow.com/users/2526437/cyberpirate92"><img src="https://img.shields.io/stackexchange/stackoverflow/r/2526437?label=cyberpirate92&logo=stackoverflow&style=flat"></a>
+  <a href="https://medium.com/@ravi_theja"><img src="https://img.shields.io/badge/-@ravi_theja-777?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ravi_theja"></a>
+  <a href="https://ravitheja.dev/blog"><img src="https://img.shields.io/badge/personal%20blog-ravitheja.dev-important?style=flat&logo=Safari"></a>
+  <a href="https://t.me/cyberpirate92"><img src="https://img.shields.io/badge/-cyberpirate92-0088CC?style=flat&logo=Telegram&link=https://t.me/cyberpirate92"></a>
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cyberpirate92.visitors&style=plastic" alt="visitor badge"/>
+</p>
