@@ -2,13 +2,34 @@
 
 I am Ravi Theja, a Software Engineer from India currently working at Optmyzr.
 
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<table>
+  <tr>
+    <th><h4>Blog posts</h4></th>
+    <th><h4>Stack Overflow Activity</h4></th>
+  </tr>
+  <tr>
+<td>
 
-### Stackoverflow Activity
+<!-- BLOG-POST-LIST:START -->
+- [Lesser known Javascript concepts](https://medium.com/@ravi_theja/lesser-known-javascript-concepts-5750c9be8f46?source=rss-775bfefb060------2)
+- [Creating a simple blockchain](https://medium.com/@ravi_theja/creating-a-simple-blockchain-6d003129ab97?source=rss-775bfefb060------2)
+- [Why is it difficult to modify records in a blockchain](https://medium.com/@ravi_theja/why-is-it-difficult-to-modify-records-in-a-blockchain-4891612f0645?source=rss-775bfefb060------2)
+- [Creating a real time graph using SignalR](https://medium.com/@ravi_theja/creating-a-real-time-graph-using-signalr-eb19b3e2f212?source=rss-775bfefb060------2)
+- [Angular content projection](https://medium.com/@ravi_theja/angular-content-projection-979cd96936e4?source=rss-775bfefb060------2)
+<!-- BLOG-POST-LIST:END -->
+</td>
+<td>
+
 <!-- STACKOVERFLOW:START -->
+- [Answer by cyberpirate92 for Angular slideshow](https://stackoverflow.com/questions/64546516/angular-slideshow/64549205#64549205)
+- [How to publish changes to a single object in a object array](https://stackoverflow.com/questions/60714347/how-to-publish-changes-to-a-single-object-in-a-object-array)
+- [JUnit: How to create a test class with dependency injection via the constructor](https://stackoverflow.com/questions/59262571/junit-how-to-create-a-test-class-with-dependency-injection-via-the-constructor)
+- [How to replace route parameters in active route](https://stackoverflow.com/questions/57474384/how-to-replace-route-parameters-in-active-route)
+- [Angular - How to make new HTTP requests based on previous request's results](https://stackoverflow.com/questions/55767204/angular-how-to-make-new-http-requests-based-on-previous-requests-results)
 <!-- STACKOVERFLOW:END -->
+</td>
+</tr>
+</table>
 
 ----
 
