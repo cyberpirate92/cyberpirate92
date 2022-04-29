@@ -1,6 +1,6 @@
 ## Hello there <img src="https://raw.githubusercontent.com/cyberpirate92/cyberpirate92/master/wave.gif" width="28px">
 
-I am Ravi Theja, a Software Engineer from India currently working at Optmyzr.
+I am Ravi. I currently work as a Ruby on Rails Full Stack Engineer at [PriceLabs](https://hello.pricelabs.co). During my free time I work on fun projects like [code2img](https://github.com/cyberpirate92/code2img), [minesweeper](https://github.com/cyberpirate92/minesweeper-react).  
 
 <table>
   <tr>
