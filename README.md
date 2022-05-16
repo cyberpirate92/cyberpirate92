@@ -1,7 +1,7 @@
 ## Hello there <img src="https://raw.githubusercontent.com/cyberpirate92/cyberpirate92/master/wave.gif" width="28px">
 
 I am Ravi, currently working as a Ruby on Rails Full Stack Engineer at [PriceLabs](https://hello.pricelabs.co).<br />
-During my free you can find me working on fun projects like [code2img](https://github.com/cyberpirate92/code2img), [minesweeper](https://github.com/cyberpirate92/minesweeper-react), [snake-game](https://github.com/cyberpirate92/snake-game).
+During my free time you can find me working on fun projects like [code2img](https://github.com/cyberpirate92/code2img), [minesweeper](https://github.com/cyberpirate92/minesweeper-react), [snake-game](https://github.com/cyberpirate92/snake-game).
 
 <table>
   <tr>
